@@ -1,4 +1,4 @@
-radio.setGroup(1)
+radio.setGroup(255)
 basic.showIcon(IconNames.Yes)
 basic.pause(1000)
 basic.clearScreen()
